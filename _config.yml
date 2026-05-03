@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: SXqwq's Library
+subtitle: '你是否愿意相信明天的奇迹'
 description: ''
 keywords:
-author: John Doe
+author: SXqwq
 language: zh-CN
 timezone: ''
 
@@ -45,15 +45,23 @@ relative_link: false
 future: true
 syntax_highlighter: highlight.js
 highlight:
+  enable: false
   line_number: true
   auto_detect: false
   tab_replace: ''
   wrap: true
   hljs: false
 prismjs:
+  enable: true
   preprocess: true
   line_number: true
   tab_replace: ''
+search:
+  path: search.xml
+  field: post
+permalink_pinyin:
+  enable: true
+  separator: '-' # default: '-'
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
