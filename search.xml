@@ -4,6 +4,44 @@
   
     
     <entry>
+      <title>闲话 5.4</title>
+      <link href="/2026/05/04/about-me/"/>
+      <url>/2026/05/04/about-me/</url>
+      
+        <content type="html"><![CDATA[<p>不知道应该写点什么。</p><p>这的教育吧，比较抽象，天天把你栓在那不知道干些什么，但是把你放回家吧，你大概率学不进去，所以把学校当成大自习室是好的。这样可以利用有限的时间写好多好多的题。</p><p>如今随着 <code>LLM</code> 入场，应试教育的去中心化进一步加强，那些中断的思路，你的各种奇思妙想都可以喂给 <code>LLM</code> 令其分析，纠正。利用得当的话甚至强于 1v1 辅导。毕竟高中文化课是一个非常完善的知识系统，本来就没多少东西，一代代学生不断内卷，各种培训机构，教辅机构入场。其实你发现教辅机构每一年出的新书已经整不出什么新活了，最多更新点每年的 “新题”。但显然新题并不新。出题人所有的新 idea 都是基于以往的题目。有的出题人比较牛，做了太多题，脑中不自觉的对以前的题目拟合了。这就是所谓的“创新题”。有的出题人呢，相对弱，对着纸面上的题目进行改。所有应试造题都是这么干，你会发现人类在所有应试做题领域越来越比不过 LLM 了。这很正常。本来人就不应该干这种活，高中教育也不是让你真正学会些东西，他只不过是为了筛选出那些能忍住日复一日重复的合格牛马。并给牛马分级。所以你觉得这玩意反人类是正常的。</p><p>五大类学科竞赛，也是同理。内卷大赛是这样的，随着越来越多人参与养蛊，它的知识体系会越来越成熟，去中心化是必然趋势。学科竞赛的未来在哪里，我不知道。</p><p>应试教育就是这样，最后必然会无题可出。哪怕令大部分学生所畏惧的高考数学 T19，它也不是原创的 idea。物理更不必说了，它的套路是最明了的，所谓的难题，不过是缝合怪。就是熟练度的问题，你在 90min 的时间内能否做完。</p><p>说这些到底有什么用呢？我也不知道。只是觉得除了这些，好像没啥好写的了。有点感慨，但又不知道感慨些什么。或许说这些可以让我们看清自己，找准位置吧。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 闲话 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 闲话 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2026/05/04/hello-world/"/>
+      <url>/2026/05/04/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>测试文章</title>
       <link href="/2026/05/03/test1/"/>
       <url>/2026/05/03/test1/</url>
@@ -25,19 +63,6 @@
             <tag> testB </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2026/05/02/hello-world/"/>
-      <url>/2026/05/02/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
       
     </entry>
     
